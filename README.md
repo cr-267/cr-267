@@ -1,14 +1,13 @@
-# Chinthapatla Rohith
+# 👋 Hi, I’m Chinthapatla Rohith
 
-**Retail Sales & Analytics Specialist**
-
-🔹 **Current Project:** Developing a Retail Sales Dashboard leveraging Power BI, Python, and Microsoft Azure  
-🔹 **Areas of Expertise:** Data Analysis · Sales Forecasting · Machine Learning  
-🔹 **Ongoing Learning:** Advanced Data Visualization · KPI Tracking · Cloud Analytics  
-🔹 **Contact:** [chinthapatlarohith@gmail.com](mailto:chinthapatlarohith@gmail.com)  
-🔹 **Connect:** [LinkedIn](https://www.linkedin.com/in/chinthapatla-rohith) · [GitHub](https://github.com/klu-2200032779)
+🔭 I’m currently working on a **Retail Sales Dashboard** project using Power BI, Python, and Azure  
+🌱 I’m learning advanced **Data Visualization**, **KPI Tracking**, and **Cloud Analytics**  
+💡 I specialize in **Data Analysis**, **Sales Forecasting**, and **Machine Learning** :contentReference[oaicite:8]{index=8}  
+📫 Reach me at [chinthapatlarohith@gmail.com](mailto:chinthapatlarohith@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/chinthapatla-rohith) · [GitHub](https://github.com/klu-2200032779)  
 
 ---
+
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -55,5 +54,6 @@
 
 ## 📜 Certifications
 
-- Microsoft Certified: Azure AI Fundamentals  
-- Microsoft Certified: Azure Data Scientist Associate :contentReference[oaicite:15]{index=15}  
+[![AZ‑900: Azure AI Fundamentals](https://img.shields.io/badge/AZ--900_Azure_AI_Fundamentals-0089D6?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals)  
+[![DP‑100: Azure Data Scientist Associate](https://img.shields.io/badge/DP--100_Azure_Data_Scientist_Associate-0089D6?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-data-scientist)
+
