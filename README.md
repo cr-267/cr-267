@@ -1,13 +1,14 @@
-# 👋 Hi, I’m Chinthapatla Rohith
+# Chinthapatla Rohith
 
-🔭 I’m currently working on a **Retail Sales Dashboard** project using Power BI, Python, and Azure  
-🌱 I’m learning advanced **Data Visualization**, **KPI Tracking**, and **Cloud Analytics**  
-💡 I specialize in **Data Analysis**, **Sales Forecasting**, and **Machine Learning** :contentReference[oaicite:8]{index=8}  
-📫 Reach me at [chinthapatlarohith@gmail.com](mailto:chinthapatlarohith@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/chinthapatla-rohith) · [GitHub](https://github.com/klu-2200032779)  
+**Retail Sales & Analytics Specialist**
+
+🔹 **Current Project:** Developing a Retail Sales Dashboard leveraging Power BI, Python, and Microsoft Azure  
+🔹 **Areas of Expertise:** Data Analysis · Sales Forecasting · Machine Learning  
+🔹 **Ongoing Learning:** Advanced Data Visualization · KPI Tracking · Cloud Analytics  
+🔹 **Contact:** [chinthapatlarohith@gmail.com](mailto:chinthapatlarohith@gmail.com)  
+🔹 **Connect:** [LinkedIn](https://www.linkedin.com/in/chinthapatla-rohith) · [GitHub](https://github.com/klu-2200032779)
 
 ---
-
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
