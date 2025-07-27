@@ -10,9 +10,17 @@
 
 ## 🛠️ Technologies & Tools
 
-**Languages:** Python · SQL · C · C++ · Java  
-**Analytics & BI:** Power BI · Dashboards · Data Visualization · KPI Tracking  
-**Cloud:** Azure (Basics) :contentReference[oaicite:9]{index=9}  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![Scikit‑Learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-DD271B?logo=opencv&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-A56B35?logo=nltk&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 ---
 
