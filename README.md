@@ -43,5 +43,11 @@
 ## 📜 Certifications
 
 🎖️ [![AZ‑900: Azure AI Fundamentals](https://img.shields.io/badge/AZ--900_Azure_AI_Fundamentals-0089D6?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/cr-267/6D0340D94ABC8F54?sharingId=6CAD354418BFF8F)  
+> ![Badge](https://img.shields.io/badge/Microsoft_Certified-AI_Fundamentals-00ADEF?logo=microsoft&logoColor=white)  
+> **Microsoft Certified: Azure AI Fundamentals**  
+> Validates foundational knowledge of AI, ML, and Azure cognitive services.
 
 🏅 [![DP‑100: Azure Data Scientist Associate](https://img.shields.io/badge/DP--100_Azure_Data_Scientist_Associate-0089D6?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/cr-267/88B97F37BD1554D7?sharingId=6CAD354418BFF8F)  
+> ![Badge](https://img.shields.io/badge/Microsoft_Certified-Data_Scientist_Associate-00ADEF?logo=microsoft&logoColor=white)  
+> **Microsoft Certified: Azure Data Scientist Associate**  
+> Demonstrates ability to design, train, and deploy ML models using Azure Machine Learning.
