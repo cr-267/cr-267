@@ -1,11 +1,9 @@
 # 👋 Hi, I’m **Chinthapatla Rohith**
 
-🚀 **Problem Solver | DSA (C++) Enthusiast | Frontend Developer**  
-📊 **Data Analyst & Aspiring ML Engineer**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinthapatla-rohith)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-username) 
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-username)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/cr__269) 
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/cr_267)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinthapatlarohith@gmail.com)
 
 ---
@@ -61,7 +59,7 @@
 
 - **Narayana Junior College**, Ranga Reddy, TG  
   *Intermediate (MPC)*  
-  **Marks:** 937/1000 (2020 – 2022)
+  **CGPA:** 9.86 (2020 – 2022)
 
 - **Ekashila E Techno Schools**, Warangal, TG  
   *SSC*  
