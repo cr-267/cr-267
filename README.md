@@ -5,8 +5,9 @@
 🚀 **Problem Solver | DSA (C++) Enthusiast | Frontend Developer**  
 📊 **Data Analyst & Aspiring ML Engineer**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinthapatla-rohith) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cr-267) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinthapatla-rohith)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-username) 
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-username)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinthapatlarohith@gmail.com)
 
 </div>
@@ -43,23 +44,32 @@
 
 ## 🚀 Featured Projects  
 
-### 📊 Retail Sales Dashboard  
-> **Power BI · Python · Azure**  
-- Interactive dashboards to monitor store-level performance  
-- ETL pipelines + forecasting using Python  
-- Azure Blob Storage for centralized ingestion  
+### 📧 Email Spam Detection  
+> **Python · NLP · Machine Learning**  
+- Preprocessing + feature extraction using TF-IDF  
+- Trained classifiers for spam/ham prediction  
+- Achieved high accuracy with Naïve Bayes  
 
-🔗 **Repo:** [Retail Sales Dashboard](https://github.com/cr-267/retail-sales-dashboard)
+🔗 **Repo:** [EMAIL-SPAM-DETECTION](https://github.com/cr-267/EMAIL-SPAM-DETECTION)
 
 ---
 
-### 🧠 Job Recommendation Web App  
-> **Python · Streamlit · ML**  
-- Resume parsing + skill extraction  
-- Keyword-based matching & job ranking  
-- User-friendly interface with dark mode  
+### 🩺 Breast Cancer Detection (EDA + ML)  
+> **Python · EDA · Machine Learning**  
+- Performed exploratory data analysis & visualization  
+- Applied ML models for tumor classification  
+- Evaluated accuracy with confusion matrix & ROC  
 
-🔗 **Repo:** [Job Recommendation Web App](https://github.com/cr-267/job-recommender)
+🔗 **Repo:** [breast-cancer-eda](https://github.com/cr-267/breast-cancer-eda)
+
+---
+
+## 🎓 Education  
+
+📌 **Timeline**  
+- 🎓 **B.Tech (Computer Science & Engineering)** – [Your University Name] – *2022–2026*  
+- 🏫 **Intermediate** – [College Name] – *2020–2022*  
+- 🏫 **Schooling** – [School Name] – *2019–2020*  
 
 ---
 
