@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👋 Hi, I’m **Chinthapatla Rohith**
 
 🚀 **Problem Solver | DSA (C++) Enthusiast | Frontend Developer**  
@@ -9,8 +7,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-username) 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-username)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinthapatlarohith@gmail.com)
-
-</div>
 
 ---
 
@@ -25,20 +21,13 @@
 
 ## 🛠 Tech Stack  
 
-**Languages**  
-`C++` · `Python` · `SQL` · `JavaScript`
-
-**Frontend**  
-`HTML` · `CSS` · `React.js`
-
-**Data & ML**  
-`Pandas` · `NumPy` · `scikit-learn` · `Matplotlib` · `Power BI`
-
-**Tools & Platforms**  
-`Git` · `GitHub` · `Streamlit` · `Jupyter`  
-
-**Cloud**  
-`Microsoft Azure`
+| **Category**     | **Technologies**                                                                 |
+|-------------------|----------------------------------------------------------------------------------|
+| **Languages**     | C++, Python, SQL, JavaScript                                                     |
+| **Frontend**      | HTML, CSS, React.js                                                              |
+| **Data & ML**     | Pandas, NumPy, scikit-learn, Matplotlib, Power BI                                |
+| **Tools**         | Git, GitHub, Streamlit, Jupyter                                                  |
+| **Cloud**         | Microsoft Azure                                                                  |
 
 ---
 
@@ -66,10 +55,9 @@
 
 ## 🎓 Education  
 
-📌 **Timeline**  
-- 🎓 **B.Tech (Computer Science & Engineering)** – [Your University Name] – *2022–2026*  
-- 🏫 **Intermediate** – [College Name] – *2020–2022*  
-- 🏫 **Schooling** – [School Name] – *2019–2020*  
+- 🎓 **B.Tech (Computer Science & Engineering)** – VIT-AP University (*2022–2026*)  
+- 🏫 **Intermediate (MPC)** – Narayana Junior College, Vijayawada (*2020–2022*)  
+- 🏫 **Schooling** – Narayana School, Kakinada (*2019–2020*)  
 
 ---
 
@@ -82,12 +70,8 @@
 
 ## 📊 GitHub Stats  
 
-<div align="center">
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cr-267&show_icons=true&theme=tokyonight&hide_border=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cr-267&theme=tokyonight&hide_border=true)  
-
-</div>
 
 ---
 
@@ -98,6 +82,4 @@
 
 ---
 
-<div align="center">  
 ✨ *“Great code is 10% syntax and 90% problem solving.”* ✨  
-</div>
