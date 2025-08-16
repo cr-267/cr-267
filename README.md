@@ -53,18 +53,30 @@
 
 ---
 
-## 🎓 Education  
+## 🎓 Education
 
-- 🎓 **B.Tech (Computer Science & Engineering)** – VIT-AP University (*2022–2026*)  
-- 🏫 **Intermediate (MPC)** – Narayana Junior College, Vijayawada (*2020–2022*)  
-- 🏫 **Schooling** – Narayana School, Kakinada (*2019–2020*)  
+- **KL University**, Guntur, AP  
+  *B.Tech in Computer Science Engineering*  
+  **CGPA:** 9.57 (2022 – 2026)
+
+- **Narayana Junior College**, Ranga Reddy, TG  
+  *Intermediate (MPC)*  
+  **Marks:** 937/1000 (2020 – 2022)
+
+- **Ekashila E Techno Schools**, Warangal, TG  
+  *SSC*  
+  **CGPA:** 10.0 (2019 – 2020)
 
 ---
 
-## 📜 Certifications  
+## 📜 Certifications
 
-- 🎖️ [**Microsoft Certified: Azure AI Fundamentals (AZ-900)**](https://learn.microsoft.com/api/credentials/share/en-us/cr-267/6D0340D94ABC8F54?sharingId=6CAD354418BFF8F)  
-- 🏅 [**Microsoft Certified: Azure Data Scientist Associate (DP-100)**](https://learn.microsoft.com/api/credentials/share/en-us/cr-267/88B97F37BD1554D7?sharingId=6CAD354418BFF8F)  
+### 🎖️ Microsoft Certified: Azure AI Fundamentals  
+[![AZ‑900](https://img.shields.io/badge/AZ--900_Azure_AI_Fundamentals-0089D6?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/cr-267/6D0340D94ABC8F54?sharingId=6CAD354418BFF8F)  
+
+### 🏅 Microsoft Certified: Azure Data Scientist Associate  
+[![DP‑100](https://img.shields.io/badge/DP--100_Azure_Data_Scientist_Associate-0089D6?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/cr-267/88B97F37BD1554D7?sharingId=6CAD354418BFF8F)  
+
 
 ---
 
