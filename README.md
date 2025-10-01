@@ -7,12 +7,19 @@
 
 ---
 
+## 📌 Quick Links  
+➡️ [About Me](#-about-me) | [Tech Stack](#-tech-stack) | [Projects](#-featured-projects) | [Education](#-education) | [Certifications](#-certifications) | [Stats](#-github-stats) | [Fun Facts](#-fun-facts)  
+
+---
+
 ## 🧑‍💻 About Me
 - 💡 Passionate about **Problem Solving (DSA with C++)**  
-- 🌐 Skilled in **Frontend Development**: HTML, CSS, JavaScript, React  
-- 📊 Experience in **Data Analytics, BI dashboards, and ML models**  
+- 🌐 Skilled in **Frontend Development** (HTML, CSS, React, JS)  
+- 📊 Experienced in **Data Analytics, BI dashboards, and ML models**  
 - ☁️ Comfortable with **Azure Cloud & GitHub DevOps**  
 - 🎯 Love combining **data + design + algorithms** to build impactful solutions  
+
+> 🗨️ *Let’s connect and build something amazing!*  
 
 ---
 
@@ -30,27 +37,31 @@
 
 ## 🚀 Featured Projects  
 
-### 📧 Email Spam Detection  
+### 1️⃣ 📧 Email Spam Detection  
 > **Python · NLP · Machine Learning**  
-- Preprocessing + feature extraction using TF-IDF  
-- Trained classifiers for spam/ham prediction  
+- Preprocessing with TF-IDF  
+- Built ML classifiers for spam/ham prediction  
 - Achieved high accuracy with Naïve Bayes  
 
-🔗 [EMAIL-SPAM-DETECTION](https://github.com/cr-267/EMAIL-SPAM-DETECTION)
+🔗 [Explore Project](https://github.com/cr-267/EMAIL-SPAM-DETECTION)
 
 ---
 
-### 🩺 Breast Cancer Detection (EDA + ML)  
+### 2️⃣ 🩺 Breast Cancer Detection (EDA + ML)  
 > **Python · EDA · Machine Learning**  
-- Performed exploratory data analysis & visualization  
+- Exploratory data analysis & visualization  
 - Applied ML models for tumor classification  
-- Evaluated accuracy with confusion matrix & ROC  
+- Evaluated with confusion matrix & ROC  
 
-🔗 [breast-cancer-eda](https://github.com/cr-267/breast-cancer-eda)
+🔗 [Explore Project](https://github.com/cr-267/breast-cancer-eda)
 
 ---
 
-## 🎓 Education
+✨ *More projects on my [GitHub Repositories](https://github.com/cr-267?tab=repositories)* ✨
+
+---
+
+## 🎓 Education  
 
 - 🎓 **KL University**, Guntur, AP  
   *B.Tech in Computer Science Engineering* — **CGPA: 9.57** *(2022 – 2026)*  
@@ -80,10 +91,13 @@
 ---
 
 ## 😄 Fun Facts  
-- ⚡ Debugging > Sleeping  
-- 🧩 Solving **DSA problems** is my daily workout  
-- 📈 If there’s data, I’ll definitely try to visualize it  
+- ⚡ Debugging sometimes feels like *detective work* 🕵️  
+- 🧩 Solving **DSA problems** = my daily brain gym 🏋️  
+- 📈 If there’s data, I’ll definitely visualize it 📊  
+- 🎮 When not coding, I’m probably gaming or exploring AI tools  
 
 ---
 
-✨ *“Great code is 10% syntax and 90% problem solving.”* ✨  
+✨ *“Great code is 10% syntax and 90% problem solving.”* ✨
+
+---
